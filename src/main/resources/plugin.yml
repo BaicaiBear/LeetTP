@@ -4,3 +4,54 @@ author: ProjectInfinity
 version: ${version}
 api: ["1.0.0"]
 description: A complete teleportation suite
+
+/*Bear Cabbage add some permissions at 2019.8.27*/
+permissions:
+ leettp.command.sethome:
+  description: null
+  default: true
+ leettp.command.delhome:
+  description: null
+  default: true
+ leettp.command.home:
+  description: null
+  default: true
+ leettp.command.homes:
+  description: null
+  default: true
+ leettp.command.tpa:
+  description: null
+  default: true
+ leettp.command.tpdeny:
+  description: null
+  default: true
+ leettp.command.back:
+  description: null
+  default: true
+ leettp.command.tpahere:
+  description: null
+  default: true
+ leettp.command.tptoggle:
+  description: null
+  default: true
+ leettp.command.tpworld:
+  description: null
+  default: true
+ leettp.command.setspawn:
+  description: null
+  default: true
+ leettp.command.spawn:
+  description: null
+  default: true
+ leettp.command.setwarp:
+  description: null
+  default: true
+ leettp.command.delwarp:
+  description: null
+  default: true
+ leettp.command.warp:
+  description: null
+  default: true
+ leettp.command.warps:
+  description: null
+  default: true
